@@ -14,7 +14,7 @@ public class PasswordStoreDatabase
 
         short j=1234;
 
-        for(int i=0;i<s1.length();i++)              //add some saltingin string s1
+        for(int i=0;i<s1.length();i++)              //add some salting in string s1
         {
             
             if(i%3==0)
